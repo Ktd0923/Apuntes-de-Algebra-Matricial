@@ -9,5 +9,6 @@ Comprende las siguientes unidades del curso:
  - Formas Bilineales y Cuadráticas
  - Formas Canónicas e Inversas Generalizadas  
 
-El material se irá actualizando añadiendo nuevo contenido o corrigiendo errores.
-Versión actual: 1.0.0
+El material se irá actualizando añadiendo nuevo contenido o corrigiendo errores.  
+
+*Versión actual: 1.0.0*
