@@ -11,4 +11,4 @@ Comprende las siguientes unidades del curso:
 
 El material se irá actualizando añadiendo nuevo contenido o corrigiendo errores.  
 
-*Versión actual: 1.0.0*
+**Versión actual: 1.0.0**
